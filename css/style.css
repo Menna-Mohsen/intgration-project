@@ -1,0 +1,121 @@
+html{
+    background-color: #33B7FF ;
+    text-transform: capitalize;
+}
+
+.navbar{
+    background-color:#339FFF ;
+    opacity: 70%;
+}
+
+header{
+    min-height: 50vh;
+background-image: linear-gradient(rgba(117, 117, 117, 0.699),rgba(117, 104, 104, 0.644))
+,url(../images/clinc.jfif);
+background-position: center;
+background-size: contain;
+}
+
+.HH{
+    font-family: arial ;
+    font-style: italic;
+    text-align: center;
+   padding-top: 100px;
+}
+
+.us{
+    min-height: 80vh;
+    background-image: linear-gradient(rgba(117, 117, 117, 0.699),rgba(117, 104, 104, 0.644))
+    ,url(../images/11.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.we h2 {
+
+text-shadow:#82b2d1f3;
+}
+   
+    .we span{
+      color: #3375FF;  
+      font-size: 30px;
+    }
+
+.con{ 
+     min-height:80vh;
+  background-image: linear-gradient(rgba(117, 117, 117, 0.432),rgba(117, 104, 104, 0.527))
+    ,url(../images/8.jpg);
+    background-position: center;
+    background-size: cover;  
+   text-align: center;
+}
+.con h3{
+   padding-top: 50px;
+   font-size: 40px;
+   color: rgb(195, 202, 209);
+   line-height: 40px;
+}
+.con h4{
+   font-size: 20px;
+   color: rgb(112, 125, 136);
+}
+
+.tact ul{
+            
+    float: left;
+    margin-left: 20px;
+list-style: none;
+}
+.tact li{
+    line-height: 40px;
+    margin-bottom: 40px;
+font-size: 30px;
+}
+.tact li a{
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.tact li a:hover{
+    color: #33b7ff;
+    text-decoration:underline;
+}
+
+.map{
+    margin-bottom: 40px;
+    size: 200px;
+    background-color: #3375FF ;
+    color: antiquewhite;
+}
+
+.up{
+    min-height: 80vh;
+background-image: linear-gradient(rgba(109, 106, 106, 0.459),rgba(90, 89, 89, 0.527))
+,url(../images/10.jpg);
+background-position: center;
+background-size:cover;
+
+}
+.sign{
+    
+    margin-left: 300px;
+    background-color: #3375FF ;
+    color: antiquewhite;
+}
+
+footer{
+    min-height: 30vh;
+    background-image: linear-gradient(rgba(109, 106, 106, 0.459),rgba(90, 89, 89, 0.527))
+    ,url(../images/20.jpg);
+    background-position: center;
+    background-size:contain; 
+}
+ 
+footer p{
+    color: #339FFF; font-size: 18px;
+     font-family: arial ;
+     font-style: italic;
+     text-align: center;
+}
+footer p span{
+     color: rgb(70, 64, 64); font-size: 22px;
+}
